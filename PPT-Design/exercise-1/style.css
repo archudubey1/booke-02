@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: url(archana123.jpg);
+    background-size: cover;
+}
+.main{
+    
+}
+.upbtn{
+    height: 39px;
+    width: 132px;
+    margin-left: 11px;
+    margin-top: 10px;
+    background-color: #e0db47;
+    color: green;
+    border-radius: 12px;
+    border: none;
+}
+.navbar{
+   
+}
+.one{
+    justify-content: center;
+align-items: center; 
+
+   /* position: relative; */
+
+    
+    
+width: 100vw;
+height: 30vh;
+}
+.two{
+
+width: 100vw;
+height: 30vh;
+}
+.three{
+  position: relative;
+
+width: 100vw;
+height: 30vh;
+}
+.one  img {
+    margin-left: 10px;
+    margin: 15px;
+    height: 78pxpx;
+    width: 117px;
+    border-radius: 3px;
+
+}
+.letter{
+    margin-left: 43px;
+    color: red;
+    letter-spacing: 15px;
+    margin-top: -19px;
+}
+.div1{
+    margin-left: 20%;
+    display: flex;
+justify-content: center;
+align-items: center; 
+
+   
+   
+    
+}
+.div2{
+    margin-top: -42px;
+    margin-left: 32%;
+    display: flex;
+justify-content: center;
+align-items: center;
+    
+}
+.box1{
+    width: 35%;
+
+}
+.box2{
+    width: 35%;
+
+}
+.box3{
+    width: 35%;
+
+}
+.box4{
+    width: 50%;
+
+}
+.box5{
+
+    width: 50%;
+}
+.int{
+    margin: 8px;
+    height: 34px;
+    width: 127px;
+    margin-left: -21px;
+    border: 2px solid #efe807;
+    border-radius: 16px;
+}
+.nest{
+    height: 100%;
+    width: 30%;
+    margin-left: 37%;
+    margin-top: 33px;
+}
+.star{
+    height: 155px;
+    margin-top: -131px;
+    position: absolute;
+    margin-left: 78%;
+    margin-top: -185px;
+}
+/* margin: 133px;
+    width: 250px;
+    height: 50px;
+    background: #eee;
+    border-bottom: 5px solid transparent;
+    border-image: linear-gradient(to right, black 56%, black -112%, transparent 30%);
+    border-image-slice: 1; */
